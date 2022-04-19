@@ -2,4 +2,5 @@ voici mon premier tuto
 git
 
 
-
+def f(x):
+   return x**2 
